@@ -1,0 +1,19 @@
+{
+  "author": "Lalit Kapoor <lalitkapoor@gmail.com> (http://www.lalitkapoor.com)",
+  "name": "cmddy",
+  "description": "bookmarking service",
+  "version": "0.0.0",
+  "homepage": "http://www.cmddy.com",
+  "repository": {
+    "url": ""
+  },
+  "main": "lib/app.js",
+  "engines": {
+    "node": "0.8.3"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "connect-redis": "1.4.3"
+    },
+  "devDependencies": {}
+}
